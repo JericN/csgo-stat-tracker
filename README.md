@@ -1,2 +1,2 @@
 # CSGO Stat Tracker
- A State Tracker Software for Counter-Strike Global Offensive
+Stat Tracker for Counter-Strike Global Offensive using steam data
